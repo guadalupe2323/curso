@@ -1,0 +1,84 @@
+label{
+  font-size: 15px;
+  color: green;
+}
+#nom
+{
+  font-size: 18px;
+  color: red;
+}
+#apeP
+{
+  font-size: 16px;
+  color: yellow;
+}
+#apeM
+{
+  font-size: 14px;
+  color: blue;
+}
+#di
+{
+  font-size: 12px;
+  color: purple;
+}
+.separar2
+{
+  margin-bottom: 8px;
+}
+#general
+{
+background-color: green;
+border-radius: 5px;
+}
+#cabezera{
+  background: #FFFBB9;
+  border: 1px #999999;
+  padding: 20px;
+}
+#apellidoP
+{
+  float: none;
+}
+#campoApellidos
+{
+  width: 960px;
+  margin: 15px auto;
+  text-align: center;
+}
+nav{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 400px;
+  background-color: #f1f1f1;
+}
+li a{
+  display: block;
+  color: #000;
+  padding: 8px 16px;
+  text-decoration: underline;
+}
+li a:hover{
+  background-color: green;
+  color: white;
+}
+header{
+  display: inline-block;
+  text-align: center;
+}
+#centrar2
+{
+  text-align: center;
+  display: flex;
+}
+body{
+  text-align: center;
+}
+table,tr,td
+{
+  border: 1px solid black;
+}
+h2:first-letter{
+  font-size: 2em;
+}
